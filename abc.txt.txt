@@ -1,0 +1,13 @@
+git config--global user.name"surinder1"
+git config--global user.name surinder055jk@gmail.com
+git init
+git add.
+git status
+git commit-m "your message"
+git log.
+git remote add origin(link name)
+git push origin master
+update
+git add.
+git commit-m "msg"
+git push origin master
