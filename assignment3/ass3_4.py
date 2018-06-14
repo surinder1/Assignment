@@ -1,0 +1,10 @@
+l1=[1,4,3]
+print(l1)
+l1.sort()
+print(l1)
+l2=[3,2,1]
+print(l2)
+l2.sort()
+print(l2)
+l3=l1+l2
+print(l3)
